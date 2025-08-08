@@ -3,7 +3,11 @@
 #
 ###############################################
 this is practice mode
-we will try to study the basic shell scrioting
+we will try to study the basic shell scripting
+
+we will try to execute the script by its own command on uppper hand
+
+
 ##############################################
 
 
@@ -15,4 +19,13 @@ free -g
 
 nproc
 
-~
+
+ps
+
+ps -ef
+
+ps -ef | grep "ubuntu"
+
+
+ps -ef | grep systemd | awk -F" " '{print$2}'
+
