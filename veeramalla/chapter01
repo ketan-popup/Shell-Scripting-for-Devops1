@@ -1,0 +1,18 @@
+#!/bin/bash
+#
+#
+###############################################
+this is practice mode
+we will try to study the basic shell scrioting
+##############################################
+
+
+set -x   #debug mode
+
+df -h
+
+free -g
+
+nproc
+
+~
