@@ -1,7 +1,7 @@
 # Shell-Scripting-for-Devops1
 <br>
 # Shell Scripting in One Shot – Comprehensive Guide for DevOps
-Ketan Barve Presents
+
 ## 1. Introduction to Shell and Environment Setup
 <br>
 - What is Shell? (Bash, Zsh, Ksh, etc.)
